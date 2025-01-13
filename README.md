@@ -7,7 +7,7 @@ Airbnb, sebagai platform global untuk penyewaan akomodasi berbasis komunitas, te
 
 ### Pernyataan Masalah
 
-1. **Perbedaan Rating Antar Wilayah**: Bagaimana Karakteristik Properti dan Performa Host Menjelaskan Variasi Rating di Berbagai Wilayah Bangkok, Khususnya Selama Krisis COVID-19?
+1. **Perbedaan Rating Antar Wilayah**: Bagaimana Karakteristik Properti dan Performa Host Menjelaskan Variasi Rating di Berbagai Wilayah Bangkok?
 
 2. **Perubahan Preferensi Lokasi Tamu**: Bagaimana Pandemi COVID-19 Mempengaruhi Pilihan Tamu terhadap Properti?
 
