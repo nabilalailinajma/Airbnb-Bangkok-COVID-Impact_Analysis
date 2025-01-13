@@ -14,7 +14,7 @@ Airbnb, sebagai platform global untuk penyewaan akomodasi berbasis komunitas, te
 3. **Perubahan Pola Musiman**: Bagaimana Pola Musiman Mempengaruhi Strategi Pemasaran Properti Airbnb di Bangkok Sebelum dan Setelah Pandemi COVID-19?
 
 ### Tableau Dashboard
-https://public.tableau.com/app/profile/nabila.lailinajma/viz/AirbnbListingBangkokAnalysis/MainDashboard
+https://public.tableau.com/app/profile/nabila.lailinajma/viz/AirbnbListingBangkok3/MainDashboard?publish=yes
 
 ### Powerpoint
 https://www.canva.com/design/DAGa9HYXK24/DWoJwQNb-YAJknRsdJUmgQ/edit?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
