@@ -38,10 +38,10 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
     
 
 ### Tableau Dashboard
-s.id/Airbnb-Bangkok-COVID-Impact_Analysis-tableau
+https://s.id/Airbnb-Bangkok-COVID-Impact_Analysis-tableau
 
 ### Powerpoint
-s.id/Airbnb-Bangkok-COVID-Impact_Analysis-ppt
+https://s.id/Airbnb-Bangkok-COVID-Impact_Analysis-ppt
 
 ## Contribution
 Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests on GitHub.
