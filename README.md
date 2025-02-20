@@ -23,7 +23,6 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
 3. **Shifts in Seasonal Trends**: How have seasonal trends impacted Airbnb property marketing strategies in Bangkok before and after the COVID-19 pandemic?
 
 ## Project Organization
-------------
 
     ├── readme.md                            <- The top-level README for developers using this project
     |
@@ -39,10 +38,10 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
     
 
 ### Tableau Dashboard
-https://public.tableau.com/app/profile/nabila.lailinajma/viz/AirbnbListingBangkok3/MainDashboard?publish=yes
+s.id/Airbnb-Bangkok-COVID-Impact_Analysis-tableau
 
 ### Powerpoint
-[https://www.canva.com/design/DAGa9HYXK24/DWoJwQNb-YAJknRsdJUmgQ/edit?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGa9HYXK24/yyLxRACM1J82WLEwOl8aEw/view?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h46adb495a5)
+s.id/Airbnb-Bangkok-COVID-Impact_Analysis-ppt
 
 ## Contribution
 Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests on GitHub.
