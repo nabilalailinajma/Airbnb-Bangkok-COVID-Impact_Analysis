@@ -38,18 +38,8 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
         └── 3.0-analysis.ipynb               <- Data sets analysis
     
 
-
-
-### Pernyataan Masalah
-
-1. **Perbedaan Rating Antar Wilayah**: Bagaimana Karakteristik Properti dan Performa Host Menjelaskan Variasi Rating di Berbagai Wilayah Bangkok?
-
-2. **Perubahan Preferensi Lokasi Tamu**: Bagaimana Pandemi COVID-19 Mempengaruhi Pilihan Tamu terhadap Properti?
-
-3. **Perubahan Pola Musiman**: Bagaimana Pola Musiman Mempengaruhi Strategi Pemasaran Properti Airbnb di Bangkok Sebelum dan Setelah Pandemi COVID-19?
-
 ### Tableau Dashboard
 https://public.tableau.com/app/profile/nabila.lailinajma/viz/AirbnbListingBangkok3/MainDashboard?publish=yes
 
 ### Powerpoint
-https://www.canva.com/design/DAGa9HYXK24/DWoJwQNb-YAJknRsdJUmgQ/edit?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[https://www.canva.com/design/DAGa9HYXK24/DWoJwQNb-YAJknRsdJUmgQ/edit?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGa9HYXK24/yyLxRACM1J82WLEwOl8aEw/view?utm_content=DAGa9HYXK24&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h46adb495a5)
