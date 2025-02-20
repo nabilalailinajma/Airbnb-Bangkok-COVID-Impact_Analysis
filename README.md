@@ -43,8 +43,20 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
                           generated with `pip freeze > requirements.txt`
 
 
+------------
 
-
+    ├── readme.md          <- The top-level README for developers using this project
+    |
+    ├── data
+    │   ├── Airbnb Listings Bangkok.csv      <- The original, immutable data dump
+    │   ├── airbnb_cleaned.csv      <- The final, canonical data sets for analysis
+    │   └── data_additional.csv            <- The additional data sets for analysis
+    │
+    ├── notebooks   
+    │   └── 1.0-preprocessing.ipynb           <- Cleaning process before analysis
+    │   └── 2.0-exploratory.ipynb           <- Additional, exploratory data sets before analysis
+    │   └── 3.0-analysis.ipynb           <- Data sets analysis
+    │
 
 
 
