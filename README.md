@@ -24,26 +24,6 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
 
 ## Project Organization
 ------------
-├── README.md          <- The top-level README for developers using this project
-│
-├── data
-│   ├── raw            <- The original, immutable data dump
-│   │   ├── Airbnb Listings Bangkok.csv
-│   │   ├── data_additional.csv
-│   ├── processed      <- The final, cleaned data sets for analysis
-│       ├── airbnb_cleaned.csv
-│
-├── notebooks          <- Jupyter notebooks. A naming convention is a number (for ordering),
-│   │                     the creator's initials, and a short `-` delimited description.
-│   ├── 1.0-exploratory.ipynb
-│   ├── 2.0-preprocessing.ipynb
-│   ├── 3.0-analysis.ipynb
-│
-└── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                          generated with `pip freeze > requirements.txt`
-
-
-------------
 
     ├── readme.md          <- The top-level README for developers using this project
     |
@@ -53,10 +33,10 @@ This study aims to analyze these factors to provide insights into how Airbnb hos
     │   └── data_additional.csv            <- The additional data sets for analysis
     │
     ├── notebooks   
-    │   └── 1.0-preprocessing.ipynb           <- Cleaning process before analysis
-    │   └── 2.0-exploratory.ipynb           <- Additional, exploratory data sets before analysis
-    │   └── 3.0-analysis.ipynb           <- Data sets analysis
-    │
+        └── 1.0-preprocessing.ipynb           <- Cleaning process before analysis
+        └── 2.0-exploratory.ipynb           <- Additional, exploratory data sets before analysis
+        └── 3.0-analysis.ipynb           <- Data sets analysis
+    
 
 
 
