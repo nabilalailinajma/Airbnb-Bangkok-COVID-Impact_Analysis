@@ -1,4 +1,5 @@
-## **Analisis Strategi Adaptasi dan Optimasi Listing Airbnb Bangkok:** Dampak COVID-19 terhadap Rating, Layanan Host, dan Harga
+## **Analysis of Adaptation Strategies and Optimization of Airbnb Listings in Bangkok:**
+The Impact of COVID-19 on Ratings, Host Services, and Pricing
 
 Developed by: Nabila Lailinajma
 
