@@ -1,9 +1,52 @@
 ## **Analisis Strategi Adaptasi dan Optimasi Listing Airbnb Bangkok:** Dampak COVID-19 terhadap Rating, Layanan Host, dan Harga
 
-Oleh: Nabila Lailinajma
+Developed by: Nabila Lailinajma
 
-### Latar Belakang
-Airbnb, sebagai platform global untuk penyewaan akomodasi berbasis komunitas, telah merevolusi cara orang berpergian dan menginap. Di Bangkok, yang merupakan salah satu destinasi pariwisata terbesar di Asia Tenggara, Airbnb memberikan peluang besar bagi para pemilik properti untuk memanfaatkan potensi pasar wisatawan yang terus berkembang. Dengan menawarkan berbagai pilihan akomodasi, mulai dari apartemen modern hingga rumah tradisional, Airbnb telah mengubah dinamika industri perhotelan lokal.
+## Overview
+- Business Understanding
+- Data Understanding and Data Cleaning
+- Data Analysis
+
+## Background
+### Bussiness Understanding
+The Airbnb marketplace in Bangkok, one of Southeast Asia’s most visited cities, has undergone significant changes due to shifting traveler preferences and external disruptions like the COVID-19 pandemic. While Airbnb provides opportunities for property owners to reach a global audience, hosts face challenges in maintaining high ratings, attracting guests, and optimizing pricing strategies.
+
+One key issue is the variation in guest ratings across different areas of Bangkok, which raises questions about the influence of property characteristics and host performance. Additionally, the pandemic has led to shifts in traveler preferences, impacting the demand for certain types of accommodations and locations. Lastly, seasonal patterns play a critical role in shaping occupancy rates and revenue, requiring hosts to continuously adapt their marketing and pricing strategies.
+
+This study aims to analyze these factors to provide insights into how Airbnb hosts in Bangkok can adapt and optimize their listings for better performance in a rapidly evolving market.
+
+### Problem Statement
+1. **Regional Rating Differences**: How do property characteristics and host performance explain variations in ratings across different areas of Bangkok?
+
+2. **Changes in Guest Location Preferences**: How has the COVID-19 pandemic influenced guests' choices of properties?
+
+3. **Shifts in Seasonal Trends**: How have seasonal trends impacted Airbnb property marketing strategies in Bangkok before and after the COVID-19 pandemic?
+
+## Project Organization
+------------
+├── README.md          <- The top-level README for developers using this project
+│
+├── data
+│   ├── raw            <- The original, immutable data dump
+│   │   ├── Airbnb Listings Bangkok.csv
+│   │   ├── data_additional.csv
+│   ├── processed      <- The final, cleaned data sets for analysis
+│       ├── airbnb_cleaned.csv
+│
+├── notebooks          <- Jupyter notebooks. A naming convention is a number (for ordering),
+│   │                     the creator's initials, and a short `-` delimited description.
+│   ├── 1.0-exploratory.ipynb
+│   ├── 2.0-preprocessing.ipynb
+│   ├── 3.0-analysis.ipynb
+│
+└── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+                          generated with `pip freeze > requirements.txt`
+
+
+
+
+
+
 
 ### Pernyataan Masalah
 
