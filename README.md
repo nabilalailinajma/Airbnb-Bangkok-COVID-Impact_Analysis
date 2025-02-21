@@ -3,9 +3,7 @@
 Developed by: Nabila Lailinajma
 
 ## Overview
-- Business Understanding
-- Data Understanding and Data Cleaning
-- Data Analysis
+This project examines the impact of COVID-19 on Airbnb listings in Bangkok, focusing on guest ratings, host strategies, and pricing optimization. By analyzing property characteristics, traveler preferences, and seasonal trends, the study provides insights into how hosts can adapt to market shifts and enhance listing performance.
 
 ## Background
 ### Bussiness Understanding
